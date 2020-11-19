@@ -1,2 +1,2 @@
 # c
-learn c
+learn c socket
