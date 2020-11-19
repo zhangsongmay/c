@@ -1,0 +1,17 @@
+/.idea
+/.git
+.project
+.settings
+.springBeans
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+*.cmake
+*.cbp
+CMakeCache.txt
+Makefile
+### NetBeans ###
+CMakeFiles/
+
